@@ -8,7 +8,7 @@ class Product < ActiveRecord::Base
   
     def print_all_reviews
       reviews.each do |review|
-        puts "Review for #{products_name} by #{review.user.name}: #{review.star_rating}. #{review.comment}"
+        puts "Review for #{name} by #{review.user.name}: #{review.star_rating}. #{review.comment}"
       end
     end
   
