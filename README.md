@@ -4,6 +4,8 @@ Product Review Code Challenge
 This project focuses on implementing a product review system within an e-commerce domain. The project involves three models: User, Review, and Product. A User can review multiple Products, and each Review belongs to a User and a Product.
 
 # Products Review Diagram
+![image](https://github.com/ryanbiy/Active-Record-Code-Challenge/assets/127053355/09587fd3-51c9-4bfb-89cc-bf77be7d9a67)
+
 
 # Topics Covered
 This assignment covers the following topics:
